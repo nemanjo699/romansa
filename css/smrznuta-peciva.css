@@ -3,7 +3,7 @@
 
 /*** Banner ***/
 #banner-smrznuti {
-  background: url(../images/smznuta-banner-background.jpg) no-repeat center top;
+  background: url(../images/smznuta-banner-background.webp) no-repeat center top;
   background-attachment: fixed;
   background-size: cover;
   height: 100vh;
@@ -34,7 +34,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 40px 20px;
-  background-image: url(../images/ponuda-background.jpg);
+  background-image: url(../images/ponuda-background.webp);
   background-size: cover;
 }
 

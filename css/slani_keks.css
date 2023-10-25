@@ -3,7 +3,7 @@
 
 /*** Banner ***/
 #banner-keks {
-  background: url(../images/keks-banner-bakground.jpg) no-repeat center top;
+  background: url(../images/keks-banner-bakground.webp) no-repeat center top;
   background-attachment: fixed;
   background-size: cover;
   height: 100vh;
@@ -33,7 +33,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 40px 20px;
-  background-image: url(../images/slani-keks-background.jpg);
+  background-image: url(../images/slani-keks-background.webp);
   background-size: cover;
 }
 .card {

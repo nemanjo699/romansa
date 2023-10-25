@@ -3,7 +3,7 @@
 
 /*** Banner ***/
 #banner-testenine {
-  background: url(../images/testenine-banner-background.jpg) no-repeat center
+  background: url(../images/testenine-banner-background.webp) no-repeat center
     top;
   background-attachment: fixed;
   background-size: cover;
@@ -34,7 +34,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 40px 20px;
-  background-image: url(../images/testenine-background.jpg);
+  background-image: url(../images/testenine-background.webp);
   background-size: cover;
 }
 .card {

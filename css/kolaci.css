@@ -3,7 +3,7 @@
 
 /*** Banner ***/
 #banner-kolaci {
-  background: url(../images/kolaci-banner-background.jpg) no-repeat center top;
+  background: url(../images/kolaci-banner-background.webp) no-repeat center top;
   background-attachment: fixed;
   background-size: cover;
   height: 100vh;
@@ -33,7 +33,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 40px 20px;
-  background-image: url(../images/kolaci-background.jpg);
+  background-image: url(../images/kolaci-background.webp);
   background-size: cover;
 }
 .card {

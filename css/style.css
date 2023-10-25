@@ -252,7 +252,7 @@ body {
   bottom: 20px;
   right: 40px;
   display: none;
-  background: url(../images/icon_top.png) no-repeat;
+  background: url(../images/icon_top.webp) no-repeat;
 }
 
 .scrollup:hover {
@@ -406,7 +406,7 @@ body {
 -------------------------------------------------------------------*/
 
 .banner {
-  background: url(../images/banner.jpg) no-repeat center top;
+  background: url(../images/banner.webp) no-repeat center top;
   background-attachment: fixed;
   background-size: cover;
   height: 100vh;
@@ -695,7 +695,7 @@ body {
     SPECIAL-MENU AREA
 -------------------------------------------------------------------*/
 #menu {
-  background: url(../images/special-menu-bg.jpg) no-repeat center;
+  background: url(../images/special-menu-bg.webp) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -837,7 +837,7 @@ body {
 
 @media (max-width: 600px) {
   .special-menu {
-    background: url(../images/special_menu_bg.jpg) no-repeat center;
+    background: url(../images/special_menu_bg.webp) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -1092,7 +1092,7 @@ body {
 -------------------------------------------------------------------*/
 
 .team-main {
-  background: url(../images/team_bg.jpg) no-repeat center;
+  background: url(../images/team_bg.webp) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -1349,7 +1349,7 @@ body {
 -------------------------------------------------------------------*/
 
 .blog-main {
-  background: url(../images/blog_bg.jpg) no-repeat center;
+  background: url(../images/blog_bg.webp) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -1474,7 +1474,7 @@ body {
 -------------------------------------------------------------------*/
 
 .pricing-main {
-  background: url(../images/full-bg.png) no-repeat center;
+  background: url(../images/full-bg.webp) no-repeat center;
   background-size: cover;
 }
 
@@ -1740,7 +1740,7 @@ select:focus,
 .footer-main {
 }
 .footer-news {
-  background: url(../images/newsletter-bg.jpg) no-repeat center;
+  background: url(../images/newsletter-bg.webp) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -1859,20 +1859,20 @@ select:focus,
       rgba(0, 0, 0, 0.57) 0%,
       rgba(0, 0, 0, 0.87) 100%
     ),
-    url(..images/footer_background.jpg);
+    url(..images/footer_background.webp);
   background-image: -webkit-radial-gradient(
       center,
       ellipse cover,
       rgba(0, 0, 0, 0.57) 0%,
       rgba(0, 0, 0, 0.87) 100%
     ),
-    url(../images/footer_background.jpg);
+    url(../images/footer_background.webp);
   background-image: radial-gradient(
       ellipse at center,
       rgba(0, 0, 0, 0.57) 0%,
       rgba(0, 0, 0, 0.87) 100%
     ),
-    url(../images/footer_background.jpg);
+    url(../images/footer_background.webp);
   background-color: #111;
   background-position: center;
   background-repeat: no-repeat;
@@ -2179,7 +2179,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../images/contact-background.jpg);
+  background-image: url(../images/contact-background.webp);
   background-size: cover;
   padding: 10px 10px 10px 10px;
 }
